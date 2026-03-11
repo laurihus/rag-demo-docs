@@ -1,0 +1,25 @@
+Articulated robots
+Main article: Articulated robot
+Articulated robotsare the most common industrial robots.They look like a human arm, which is why they are also called robotic arm or manipulator arm.[7] Their articulations with several degrees of freedom allow the articulated arms a wide range of movements.
+Autonomous robot
+An autonomous robot is a robot that acts without recourse to human control. The first autonomous robots were known as Elmer and Elsie and constructed in the late 1940s by W. Grey Walter. They were the first robots that were programmed to "think" the way biological brains do, intended to have free will. Elmer and Elsie were often labeled as tortoises because of how they were shaped and the manner in which they moved. They were capable of phototaxis which is the movement that occurs in response to light stimulus.
+Cartesian coordinate robots
+Main article: Cartesian coordinate robot
+Cartesian robots, also called rectilinear, gantry robots, and x-y-z robots have three prismatic joints for the movement of the tool and three rotary joints for its orientation in space.
+To be able to move and orient the effector organ in all directions, such a robot needs 6 axes (or degrees of freedom). In a 2-dimensional environment, three axes are sufficient, two for displacement and one for orientation.
+Cylindrical coordinate robots
+The cylindrical coordinate robotsare characterized by their rotary joint at the base and at least one prismatic joint connecting its links. They can move vertically and horizontally by sliding. The compact effector design allows the robot to reach tight work-spaces without any loss of speed.
+Spherical coordinate robots
+Spherical coordinate robots only have rotary joints. They are one of the first robots to have been used in industrial applications. They are commonly used for machine tending in die-casting, plastic injection and extrusion, and for welding.
+SCARA robots
+Main article: SCARA robot
+SCARA is an acronym for Selective Compliance Assembly Robot Arm.SCARA robots are recognized by their two parallel joints which provide movement in the x-y plane. Rotating shafts are positioned vertically at the effector. SCARA robots are used for jobs that require precise lateral movements. They are ideal for assembly applications.
+Delta robots
+Main article: Delta robot
+Delta robots are also referred to as parallel link robots. They consist of parallel links connected to a common base. Delta robots are particularly useful for direct control tasks and high maneuvering operations (such as quick pick-and-place tasks). Delta robots take advantage of four bar or parallelogram linkage systems.
+Furthermore, industrial robots can have a serial or parallel architecture.
+Serial manipulators
+Main article: Serial manipulator
+Serial architectures a.k.a. serial manipulators are very common industrial robots; they are designed as a series of links connected by motor-actuated joints that extend from a base to an end-effector. SCARA, Stanford manipulators are typical examples of this category.
+Parallel architecture
+A parallel manipulator is designed so that each chain is usually short, simple and can thus be rigid against unwanted movement, compared to a serial manipulator. Errors in one chain's positioning are averaged in conjunction with the others, rather than being cumulative. Each actuator must still move within its own degree of freedom, as for a serial robot; however in the parallel robot the off-axis flexibility of a joint is also constrained by the effect of the other chains. It is this closed-loop stiffness that makes the overall parallel manipulator stiff relative to its components, unlike the serial chain that becomes progressively less rigid with more components.
